@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "12728452231",
+    "project_id": "rtp-hr-automation",
+    "storage_bucket": "rtp-hr-automation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12728452231:android:7a2b0062326696d6142422",
+        "android_client_info": {
+          "package_name": "com.mycompany.rtpclientdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UgFsZlNOl6TW9sQqbg0iJYNBg6Eztow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12728452231:android:5ac8038144a438dd142422",
+        "android_client_info": {
+          "package_name": "com.mycompany.rtpclientmatching"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UgFsZlNOl6TW9sQqbg0iJYNBg6Eztow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12728452231:android:c6a69cf6380190a1142422",
+        "android_client_info": {
+          "package_name": "com.mycompany.rtphrdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UgFsZlNOl6TW9sQqbg0iJYNBg6Eztow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
